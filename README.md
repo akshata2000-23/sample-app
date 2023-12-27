@@ -17,3 +17,7 @@ This is my app
 |MySQL DB|products|
 |MongoDB priv|10.x.x.x|
 |MongoDB pub|placeholder|
+|backend1 priv|10.56.78.96|
+|backend1 pub|placeholder|
+|public IP|35.10.56.78|
+|backend1 services|Akshata,Nikita,Tin,Copper|
